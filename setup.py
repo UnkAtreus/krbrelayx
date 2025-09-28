@@ -31,7 +31,7 @@ setup(
     long_description_content_type="text/markdown",
     url="https://github.com/dirkjanm/krbrelayx",
     packages=find_packages(),
-    py_modules=["addspn", "dnstool", "krbrelayx", "printerbug"],
+    py_modules=["addspn.py", "dnstool.py", "krbrelayx.py", "printerbug.py"],
     classifiers=[
         "Development Status :: 4 - Beta",
         "Intended Audience :: Information Technology",
